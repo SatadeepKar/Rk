@@ -1,2 +1,2 @@
-+# Rk+++
-This is my first class og learning git 
+# Rk
+This is my first class of learning git 
